@@ -1,11 +1,11 @@
 ### Hi there! I’m @valdolab 👋
 
-- 🔭 I’m a Data Scientist and I’m interested in Machine Learning, NLP, and all-around AI.
+- 🔭 I’m a Data Scientist interested in Machine Learning, NLP, and all-around AI.
 - 🤔 In this space I spread some interesting projects about ML, DS, computer science, coding challenges, and software engineering.
 - 📫 How to reach me: https://www.linkedin.com/in/osvaldovg/.
 - 😄 I really like to teach others and introduce them to the world of AI.
 - 🌱 I’m currently learning about Generative AI: Transformers, Image Captioning, and LLM.
-- ⚡ I always like to keep learning how things work in the world and how can I use them to impact others' lives.
+- ⚡ I always enjoy learning how things work in the world and how I can use them to impact others' lives.
 
 <!--
 **valdolab/valdolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
