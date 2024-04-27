@@ -4,7 +4,7 @@
 - 🤔 In this space I spread some interesting projects about ML, DS, computer science, coding challenges, and software engineering.
 - 📫 How to reach me: https://www.linkedin.com/in/osvaldovg/.
 - 😄 I really like to teach others and introduce them to the world of AI.
-- 🌱 I’m currently learning about Generative AI: Transformers, Image Captioning, GANs and LLM.
+- 🌱 I’m currently learning about Generative AI: Transformers, Image Captioning, GANs, OpenSource LLMs, RAGs, and shot LLM learning.
 - ⚡ I always enjoy learning how things work in the world and how I can use them to impact others' lives.
 
 <!--
